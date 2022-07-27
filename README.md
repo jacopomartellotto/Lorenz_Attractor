@@ -8,8 +8,8 @@ The Lorenz system is a system of ordinary differential equations first studied b
 
 <p align="center">
   <b>
-    x′= σ (y − x)
-    y′= x (ρ − z) − y
+    x′= σ (y − x) <br>
+    y′= x (ρ − z) − y <br>
     z′= xy−βz
   </b>
 </p>
